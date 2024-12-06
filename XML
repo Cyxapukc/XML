@@ -9,6 +9,6 @@
     <title>&text;</title>
     <link>http://www.w3schools.com/xml/xml_rss.asp</link>
     <description>New RSS tutorial on W3Schools</description>
-</item>
+    </item>
 </channel>
 </rss>
